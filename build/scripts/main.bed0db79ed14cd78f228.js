@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_rps_client=self.webpackChunktest_rps_client||[]).push([[792],{964:(e,s,t)=>{var r=t(848),c=t(540),n=t(338);t(469);const l="kQWsMHlMcwniM3Z6Pr_l";n.createRoot(document.getElementById("root")).render((0,r.jsx)(c.StrictMode,{children:(0,r.jsx)((()=>(0,r.jsx)("div",{className:l,children:(0,r.jsx)("h1",{children:"HELLO WORLD!"})})),{})}))}},e=>{e.O(0,[96],(()=>{return s=964,e(e.s=s);var s}));e.O()}]);
+//# sourceMappingURL=main.bed0db79ed14cd78f228.js.map
